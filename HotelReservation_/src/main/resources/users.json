@@ -1,0 +1,15 @@
+[{
+  "userId": "2",
+  "name": "Voivod Alin",
+  "password": "1234",
+  "latitude": 46.790240,
+  "longitude": 23.566334
+},
+  {
+    "userId": "2",
+    "name": "Jane Smith",
+    "password": "password456",
+    "latitude": 34.0522,
+    "longitude": -118.2437
+  }
+]
